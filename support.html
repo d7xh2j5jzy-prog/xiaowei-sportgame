@@ -53,7 +53,7 @@
     <div class="contact-info">
         <h2>联系方式</h2>
         <p><strong>技术支持邮箱：</strong></p>
-        <p><a href="mailto:your-email@example.com" class="email">your-email@example.com</a></p>
+        <p><a href="mailto:349010962@qq.com" class="email">your-email@example.com</a></p>
         <p><small>请将 "your-email@example.com" 替换为您的实际邮箱地址</small></p>
     </div>
     
